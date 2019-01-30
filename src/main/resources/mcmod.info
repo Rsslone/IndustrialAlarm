@@ -1,0 +1,12 @@
+[
+{
+	"modid": "industrialalarm",
+	"name": "Industrial Alarm",
+	"description": "Adds a configurable alarm / siren triggered by redstone signal.",
+	"version": "",
+	"mcversion": "1.12.2",
+	"logoFile": "",
+	"authorList": ["Rsslone"],
+	"credits": "Authored by Rsslone, based on Shedar's port of IC2 Nuclear Control"
+}
+]
